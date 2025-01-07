@@ -233,7 +233,7 @@ html,
 body {
   height: 100%;
   overflow: hidden;
-  background-image: url(../img/img1.jpeg);
+  background-image: url('../img/img1.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial, sans-serif;
